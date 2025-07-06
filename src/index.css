@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+              linear-gradient(45deg, #006847 0%, #ce1126 100%);
+  color: white;
+  font-family: 'VT323', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Estilos globales para Material-UI */
+.MuiTypography-root {
+  color: white !important;
+}
+
+.MuiCard-root {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+  color: white !important;
+}
+
+.MuiInputBase-root {
+  color: white !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Estilos para nombres de usuario */
+.user-text {
+  color: #FFD700 !important;
+  text-shadow: 
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000,
+    0 0 8px rgba(255, 215, 0, 0.5) !important;
+  font-family: 'Press Start 2P', cursive !important;
+}

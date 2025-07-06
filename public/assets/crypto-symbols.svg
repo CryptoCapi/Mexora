@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Bitcoin Symbol -->
+    <symbol id="bitcoin" viewBox="0 0 50 50">
+      <path d="M30,25c0-5-4-7-8-7v14C26,32,30,30,30,25z M25,15c3,0,6,2,6,6c0,4-3,6-6,6V15z" fill="rgba(255,255,255,0.1)"/>
+      <circle cx="25" cy="25" r="20" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+    </symbol>
+    
+    <!-- Ethereum Symbol -->
+    <symbol id="ethereum" viewBox="0 0 50 50">
+      <path d="M25,10L15,25L25,30L35,25L25,10z M25,32L15,27L25,40L35,27L25,32z" fill="rgba(255,255,255,0.1)"/>
+    </symbol>
+    
+    <!-- Solana Symbol -->
+    <symbol id="solana" viewBox="0 0 50 50">
+      <path d="M15,15h20l-20,20h20 M15,10h20 M15,40h20" stroke="rgba(255,255,255,0.1)" fill="none" stroke-width="2"/>
+    </symbol>
+  </defs>
+  
+  <!-- Pattern of Crypto Symbols -->
+  <g>
+    <!-- First Row -->
+    <use href="#bitcoin" x="0" y="0" width="50" height="50"/>
+    <use href="#ethereum" x="100" y="0" width="50" height="50"/>
+    <use href="#solana" x="200" y="0" width="50" height="50"/>
+    <use href="#bitcoin" x="300" y="0" width="50" height="50"/>
+    <use href="#ethereum" x="400" y="0" width="50" height="50"/>
+    
+    <!-- Second Row -->
+    <use href="#solana" x="50" y="100" width="50" height="50"/>
+    <use href="#bitcoin" x="150" y="100" width="50" height="50"/>
+    <use href="#ethereum" x="250" y="100" width="50" height="50"/>
+    <use href="#solana" x="350" y="100" width="50" height="50"/>
+    
+    <!-- Third Row -->
+    <use href="#ethereum" x="0" y="200" width="50" height="50"/>
+    <use href="#solana" x="100" y="200" width="50" height="50"/>
+    <use href="#bitcoin" x="200" y="200" width="50" height="50"/>
+    <use href="#ethereum" x="300" y="200" width="50" height="50"/>
+    <use href="#solana" x="400" y="200" width="50" height="50"/>
+    
+    <!-- Fourth Row -->
+    <use href="#bitcoin" x="50" y="300" width="50" height="50"/>
+    <use href="#ethereum" x="150" y="300" width="50" height="50"/>
+    <use href="#solana" x="250" y="300" width="50" height="50"/>
+    <use href="#bitcoin" x="350" y="300" width="50" height="50"/>
+    
+    <!-- Fifth Row -->
+    <use href="#solana" x="0" y="400" width="50" height="50"/>
+    <use href="#bitcoin" x="100" y="400" width="50" height="50"/>
+    <use href="#ethereum" x="200" y="400" width="50" height="50"/>
+    <use href="#solana" x="300" y="400" width="50" height="50"/>
+    <use href="#bitcoin" x="400" y="400" width="50" height="50"/>
+  </g>
+</svg> 
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Bitcoin Symbol -->
+    <symbol id="bitcoin" viewBox="0 0 50 50">
+      <path d="M30,25c0-5-4-7-8-7v14C26,32,30,30,30,25z M25,15c3,0,6,2,6,6c0,4-3,6-6,6V15z" fill="rgba(255,255,255,0.1)"/>
+      <circle cx="25" cy="25" r="20" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+    </symbol>
+    
+    <!-- Ethereum Symbol -->
+    <symbol id="ethereum" viewBox="0 0 50 50">
+      <path d="M25,10L15,25L25,30L35,25L25,10z M25,32L15,27L25,40L35,27L25,32z" fill="rgba(255,255,255,0.1)"/>
+    </symbol>
+    
+    <!-- Solana Symbol -->
+    <symbol id="solana" viewBox="0 0 50 50">
+      <path d="M15,15h20l-20,20h20 M15,10h20 M15,40h20" stroke="rgba(255,255,255,0.1)" fill="none" stroke-width="2"/>
+    </symbol>
+  </defs>
+  
+  <!-- Pattern of Crypto Symbols -->
+  <g>
+    <!-- First Row -->
+    <use href="#bitcoin" x="0" y="0" width="50" height="50"/>
+    <use href="#ethereum" x="100" y="0" width="50" height="50"/>
+    <use href="#solana" x="200" y="0" width="50" height="50"/>
+    <use href="#bitcoin" x="300" y="0" width="50" height="50"/>
+    <use href="#ethereum" x="400" y="0" width="50" height="50"/>
+    
+    <!-- Second Row -->
+    <use href="#solana" x="50" y="100" width="50" height="50"/>
+    <use href="#bitcoin" x="150" y="100" width="50" height="50"/>
+    <use href="#ethereum" x="250" y="100" width="50" height="50"/>
+    <use href="#solana" x="350" y="100" width="50" height="50"/>
+    
+    <!-- Third Row -->
+    <use href="#ethereum" x="0" y="200" width="50" height="50"/>
+    <use href="#solana" x="100" y="200" width="50" height="50"/>
+    <use href="#bitcoin" x="200" y="200" width="50" height="50"/>
+    <use href="#ethereum" x="300" y="200" width="50" height="50"/>
+    <use href="#solana" x="400" y="200" width="50" height="50"/>
+    
+    <!-- Fourth Row -->
+    <use href="#bitcoin" x="50" y="300" width="50" height="50"/>
+    <use href="#ethereum" x="150" y="300" width="50" height="50"/>
+    <use href="#solana" x="250" y="300" width="50" height="50"/>
+    <use href="#bitcoin" x="350" y="300" width="50" height="50"/>
+    
+    <!-- Fifth Row -->
+    <use href="#solana" x="0" y="400" width="50" height="50"/>
+    <use href="#bitcoin" x="100" y="400" width="50" height="50"/>
+    <use href="#ethereum" x="200" y="400" width="50" height="50"/>
+    <use href="#solana" x="300" y="400" width="50" height="50"/>
+    <use href="#bitcoin" x="400" y="400" width="50" height="50"/>
+  </g>
+</svg> 
+ 

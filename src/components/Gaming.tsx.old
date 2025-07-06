@@ -1,0 +1,19 @@
+import React from 'react';
+import { Box, Typography, Container } from '@mui/material';
+
+const Gaming: React.FC = () => {
+  return (
+    <Container>
+      <Box sx={{ py: 4 }}>
+        <Typography variant="h4" gutterBottom>
+          Sección de Gaming
+        </Typography>
+        <Typography>
+          Esta sección está en desarrollo...
+        </Typography>
+      </Box>
+    </Container>
+  );
+};
+
+export default Gaming; 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cabeza de Thanos -->
+  <path d="M100 30 C 60 30, 30 70, 30 100 C 30 140, 60 170, 100 170 C 140 170, 170 140, 170 100 C 170 70, 140 30, 100 30" fill="#9370DB"/>
+  
+  <!-- Cuello y hombros -->
+  <path d="M70 150 L 50 180 L 150 180 L 130 150" fill="#483D8B"/>
+  
+  <!-- Ojos -->
+  <circle cx="70" cy="90" r="10" fill="#000"/>
+  <circle cx="130" cy="90" r="10" fill="#000"/>
+  
+  <!-- Boca neutral -->
+  <path d="M80 120 L120 120" stroke="#000" stroke-width="5" fill="none"/>
+  
+  <!-- Mentón con líneas -->
+  <path d="M85 140 C 95 145, 105 145, 115 140" stroke="#8B008B" stroke-width="2" fill="none"/>
+</svg> 

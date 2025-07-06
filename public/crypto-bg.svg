@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#006847;stop-opacity:0.1"/>
+      <stop offset="50%" style="stop-color:#ffffff;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#ce1126;stop-opacity:0.1"/>
+    </linearGradient>
+    
+    <!-- Bitcoin symbol -->
+    <path id="bitcoin" d="M15,0 C6.716,0 0,6.716 0,15 C0,23.284 6.716,30 15,30 C23.284,30 30,23.284 30,15 C30,6.716 23.284,0 15,0 Z M15,3 C21.627,3 27,8.373 27,15 C27,21.627 21.627,27 15,27 C8.373,27 3,21.627 3,15 C3,8.373 8.373,3 15,3 Z M16,7 L14,7 L14,12 L12,12 L12,14 L13.5,14 C14.328,14 15,14.672 15,15.5 L15,17.5 C15,18.328 14.328,19 13.5,19 L12,19 L12,21 L14,21 L14,23 L16,23 L16,21 L18,21 L18,19 L16.5,19 C15.672,19 15,18.328 15,17.5 L15,15.5 C15,14.672 15.672,14 16.5,14 L18,14 L18,12 L16,12 L16,7 Z"/>
+    
+    <!-- Ethereum symbol -->
+    <path id="ethereum" d="M15,0 L0,15 L15,30 L30,15 L15,0 Z M15,6 L24,15 L15,24 L6,15 L15,6 Z"/>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#1a1a1a"/>
+  <rect width="100%" height="100%" fill="url(#grad1)"/>
+  
+  <!-- Pattern of crypto symbols -->
+  <g opacity="0.1">
+    <use href="#bitcoin" x="100" y="100" fill="#FFD700"/>
+    <use href="#ethereum" x="200" y="150" fill="#627EEA"/>
+    <use href="#bitcoin" x="300" y="200" fill="#FFD700"/>
+    <use href="#ethereum" x="400" y="250" fill="#627EEA"/>
+    <use href="#bitcoin" x="500" y="300" fill="#FFD700"/>
+    <use href="#ethereum" x="600" y="350" fill="#627EEA"/>
+    <use href="#bitcoin" x="700" y="400" fill="#FFD700"/>
+    <use href="#ethereum" x="800" y="450" fill="#627EEA"/>
+    <use href="#bitcoin" x="900" y="500" fill="#FFD700"/>
+    <use href="#ethereum" x="1000" y="550" fill="#627EEA"/>
+    
+    <use href="#bitcoin" x="150" y="600" fill="#FFD700"/>
+    <use href="#ethereum" x="250" y="650" fill="#627EEA"/>
+    <use href="#bitcoin" x="350" y="700" fill="#FFD700"/>
+    <use href="#ethereum" x="450" y="750" fill="#627EEA"/>
+    <use href="#bitcoin" x="550" y="800" fill="#FFD700"/>
+    <use href="#ethereum" x="650" y="850" fill="#627EEA"/>
+    <use href="#bitcoin" x="750" y="900" fill="#FFD700"/>
+    <use href="#ethereum" x="850" y="950" fill="#627EEA"/>
+    
+    <!-- Repetir patrones en el lado derecho -->
+    <use href="#bitcoin" x="1100" y="100" fill="#FFD700"/>
+    <use href="#ethereum" x="1200" y="150" fill="#627EEA"/>
+    <use href="#bitcoin" x="1300" y="200" fill="#FFD700"/>
+    <use href="#ethereum" x="1400" y="250" fill="#627EEA"/>
+    <use href="#bitcoin" x="1500" y="300" fill="#FFD700"/>
+    <use href="#ethereum" x="1600" y="350" fill="#627EEA"/>
+    <use href="#bitcoin" x="1700" y="400" fill="#FFD700"/>
+    <use href="#ethereum" x="1800" y="450" fill="#627EEA"/>
+  </g>
+  
+  <!-- Añadir un efecto de brillo -->
+  <circle cx="960" cy="540" r="500" fill="url(#grad1)" opacity="0.1"/>
+</svg> 

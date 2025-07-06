@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cabeza de Thanos -->
+  <path d="M100 30 C 60 30, 30 70, 30 100 C 30 140, 60 170, 100 170 C 140 170, 170 140, 170 100 C 170 70, 140 30, 100 30" fill="#9370DB"/>
+  
+  <!-- Cuello y hombros -->
+  <path d="M70 150 L 50 180 L 150 180 L 130 150" fill="#483D8B"/>
+  
+  <!-- Cejas enojadas -->
+  <path d="M60 80 L 85 70" stroke="#000" stroke-width="4" fill="none"/>
+  <path d="M140 80 L 115 70" stroke="#000" stroke-width="4" fill="none"/>
+  
+  <!-- Ojos enojados -->
+  <path d="M65 85 L 80 85" stroke="#000" stroke-width="3" fill="none"/>
+  <path d="M120 85 L 135 85" stroke="#000" stroke-width="3" fill="none"/>
+  
+  <!-- Boca enojada -->
+  <path d="M80 130 C 90 120, 110 120, 120 130" stroke="#000" stroke-width="5" fill="none"/>
+  
+  <!-- Mentón con líneas -->
+  <path d="M85 140 C 95 145, 105 145, 115 140" stroke="#8B008B" stroke-width="2" fill="none"/>
+  
+  <!-- Venas de enojo -->
+  <path d="M40 70 L 55 80" stroke="#8B008B" stroke-width="2" fill="none"/>
+  <path d="M160 70 L 145 80" stroke="#8B008B" stroke-width="2" fill="none"/>
+</svg> 
