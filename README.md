@@ -2,7 +2,7 @@
 
 © 2025 Diego Fernando Mancera Gomez. Todos los derechos reservados.
 
-Este proyecto es...
+Este proyecto es una ref social crypto friendly lugar donde la gente puede conectar y entrar a este mundo 
 
 # Getting Started with Create React App
 
